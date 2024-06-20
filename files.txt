@@ -1,0 +1,47 @@
+easy_parking/
+├── initialDB/
+│   ├── createDB.php
+│   ├── inser_rc.php
+├── classes/
+│   ├── User.php
+│   ├── ParkingLocations.php
+│   ├── userparking.php
+├── includes/
+│   ├── db_config.php
+│   ├── footer.php
+├── admin/
+│   ├── includes/
+│   │   ├── header.php
+│   ├── index.php
+│   ├── addLot.php
+│   ├── allusers.php
+│   ├── check_in.php
+│   ├── check_out.php
+│   ├── currentUsers.php
+│   ├── editLot.php
+│   ├── listAvail.php
+│   ├── listFull.php
+│   ├── locations.php
+│   ├── search.php
+│   ├── updateLot.php
+│   └── users.php
+├── user/
+│   ├── includes/
+│   │   ├── header.php
+│   │   ├── check_in.php
+│   ├── index.php
+│   ├── availability.php
+│   ├── check_in.php
+│   ├── check_out.php
+│   ├── currentparking.php
+│   ├── search.php
+│   └── history.php
+├── auth/
+│   ├── login.php
+│   ├── register.php
+│   └── logout.php
+├── assets/
+│   │── styles.css
+│   │── images
+├── index.php
+└── README.md 
