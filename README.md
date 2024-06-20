@@ -6,7 +6,7 @@ EasyParking is a web application that provides a convenient solution for both us
 ## Usage:
 1. Before using the system, please use files from "initialDB" to create database and records for latter usage.
 2. Access the application in your web browser.
-3. Sign up with proper user type (users or admin). (If already has account, move to step 3).
+3. Sign up with proper user type (users or admin). (If already has account, move to step 4).
 4. Log in with existing credentials.
 5. If you were the admin, you'll be direct to the admin panel.
 6. Start your operations.
